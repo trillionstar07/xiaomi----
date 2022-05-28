@@ -1,0 +1,135 @@
+{
+  "id": "3288458",
+  "name": "icon",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "577402",
+      "name": "向右1",
+      "font_class": "xiangyou1",
+      "unicode": "e775",
+      "unicode_decimal": 59253
+    },
+    {
+      "icon_id": "577406",
+      "name": "向左1",
+      "font_class": "xiangzuo1",
+      "unicode": "e779",
+      "unicode_decimal": 59257
+    },
+    {
+      "icon_id": "253567",
+      "name": "手机",
+      "font_class": "shouji",
+      "unicode": "e6c7",
+      "unicode_decimal": 59079
+    },
+    {
+      "icon_id": "695192",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "1079725",
+      "name": "我的－售后",
+      "font_class": "wodeshouhou",
+      "unicode": "e673",
+      "unicode_decimal": 58995
+    },
+    {
+      "icon_id": "1103258",
+      "name": "以旧换新",
+      "font_class": "yijiuhuanxin",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "1304890",
+      "name": "搜索",
+      "font_class": "sousuo1",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "2197438",
+      "name": "手机充值",
+      "font_class": "shoujichongzhi",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "3096429",
+      "name": "F码",
+      "font_class": "fma",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "3456452",
+      "name": "购物车",
+      "font_class": "gouwuche",
+      "unicode": "e70b",
+      "unicode_decimal": 59147
+    },
+    {
+      "icon_id": "4161080",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "4646117",
+      "name": "F码",
+      "font_class": "Fma",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "5460560",
+      "name": "客服",
+      "font_class": "kefu",
+      "unicode": "ec2e",
+      "unicode_decimal": 60462
+    },
+    {
+      "icon_id": "9621684",
+      "name": "米粉卡",
+      "font_class": "mifenka",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "11239041",
+      "name": "企业",
+      "font_class": "qiye",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "12889877",
+      "name": "个人中心",
+      "font_class": "gerenzhongxin",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "22724211",
+      "name": "icon-小米归属",
+      "font_class": "icon-xiaomiguishu",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "26849841",
+      "name": "小米",
+      "font_class": "XiaoMi",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    }
+  ]
+}

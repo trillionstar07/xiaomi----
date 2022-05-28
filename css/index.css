@@ -1,0 +1,13 @@
+.slider-nav{
+	background-color: reba(0,0,0,0.6);
+	background-color: #b9b9b9;
+	border: none;
+	display: block;
+	/* 当“全部商品分类” 标签显示时，此处代码注释*/
+}
+.slider-nav .slider-li .name{
+	color: #fff;
+}
+#page-all-nav .slider-nav{
+	visibility: visible;
+}
